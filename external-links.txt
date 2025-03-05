@@ -1,0 +1,99 @@
+
+005 Role-Based-Access-Control-diagram
+https://dbdiagram.io/d/Role-Based-Access-Control-6641c9319e85a46d55ad52f9
+
+006 Source-code
+https://github.com/luongquoctay87/backend-service/tree/init-project-base
+
+007 Ti-u-Chu-n-C-a-M-t-API-Backend-T-t
+https://tayjava.vn/tieu-chuan-cua-mot-api-backend-tot
+
+008 Source-code
+https://github.com/luongquoctay87/backend-service/tree/sample-mockup-api
+
+009 Source-code
+https://github.com/luongquoctay87/backend-service/tree/sample-restful-api
+
+010 Source-code
+https://github.com/luongquoctay87/backend-service/tree/sample-restful-api
+
+011 Source-code
+https://github.com/luongquoctay87/backend-service/tree/sample-restful-api
+
+012 Source-code
+https://github.com/luongquoctay87/backend-service/tree/validation-and-exception-handling
+
+013 SendGrid-l-g-G-i-Email-v-i-Spring-Boot-SendGrid
+https://tayjava.vn/sendgrid-la-gi-gui-email-voi-spring-boot-sendgrid
+
+013 sendgrid.com
+https://sendgrid.com/en-us
+
+013 Source-code
+https://github.com/luongquoctay87/backend-service/tree/send-email-using-sendgrid
+
+014 sendgrid.com
+https://sendgrid.com/en-us
+
+014 Source-code
+https://github.com/luongquoctay87/backend-service/tree/email-verification
+
+015 Spring-Security-l-g-M-h-nh-Oauth-Token-trong-B-o-m-t-API-Backend
+https://tayjava.vn/spring-security-la-gi-mo-hinh-oauth-token-trong-bao-mat-api-backend
+
+015 Source-code
+https://github.com/luongquoctay87/backend-service/tree/integrate-spring-security-jsonwebtoken
+
+016 Source-code
+https://github.com/luongquoctay87/backend-service/tree/generate-token
+
+017 Data-test-theo-RBAC
+https://docs.google.com/spreadsheets/d/1-VOHFw42ujsCSOQQGNaj5wAuo7RUT83glj1hHrK0o5s/edit?gid=1080530265#gid=1080530265
+
+017 Source-code
+https://github.com/luongquoctay87/backend-service/tree/authorization-for-user
+
+018 Unit-test-l-g-C-c-b-c-vi-t-unit-test-v-i-Spring-Boot
+https://tayjava.vn/unit-test-la-gi-cac-buoc-viet-unit-test-voi-spring-boot
+
+018 Source-code
+https://github.com/luongquoctay87/backend-service/tree/sample-unit-test
+
+019 SonarLint-l-g-C-c-t-nh-n-ng-v-l-i-ch-c-a-SonarLint
+https://tayjava.vn/sonarlint-la-gi-cac-tinh-nang-va-loi-ich-cua-sonarlint
+
+019 Source-code
+https://github.com/luongquoctay87/backend-service/tree/optimize-code-bypass-sonarlint
+
+020 SonarLint-l-g-C-c-t-nh-n-ng-v-l-i-ch-c-a-SonarLint
+https://tayjava.vn/sonarlint-la-gi-cac-tinh-nang-va-loi-ich-cua-sonarlint
+
+020 Source-code
+https://github.com/luongquoctay87/backend-service/tree/setup-logging-with-elk
+
+021 Gi-m-s-t-h-th-ng-v-i-Grafana-v-Prometheus
+https://tayjava.vn/giam-sat-he-thong-voi-grafana-va-prometheus
+
+021 Source-code
+https://github.com/luongquoctay87/backend-service/tree/monitoring-with-grafana-prometheus
+
+022 -ng-g-i-ng-d-ng-Spring-Boot-v-i-Google-Jib
+https://tayjava.vn/build-va-dong-goi-ung-dung-spring-boot-voi-google-jib
+
+022 Source-code
+https://github.com/luongquoctay87/backend-service/tree/dockerize-app-with-jib
+
+023 Jenkins-l-g-C-c-t-nh-n-ng-c-a-Jenkins
+https://tayjava.vn/jenkins-la-gi-cac-tinh-nang-cua-jenkins
+
+023 Ki-n-tr-c-c-a-Jenkins
+https://tayjava.vn/kien-truc-cua-jenkins
+
+023 Jenkins-Pipeline-l-g-T-i-sao-n-n-s-d-ng-Jenkins-Pipeline-
+https://tayjava.vn/jenkins-pipeline-la-gi-tai-sao-nen-su-dung-jenkins-pipeline
+
+023 -Jenkins-Pipeline
+https://tayjava.vn/tag/jenkins-pipeline
+
+024 Source-code
+https://github.com/luongquoctay87/backend-service/tree/ci-cd-pipeline
